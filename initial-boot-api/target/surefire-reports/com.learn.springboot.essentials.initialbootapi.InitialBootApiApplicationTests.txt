@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learn.springboot.essentials.initialbootapi.InitialBootApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.792 s - in com.learn.springboot.essentials.initialbootapi.InitialBootApiApplicationTests
